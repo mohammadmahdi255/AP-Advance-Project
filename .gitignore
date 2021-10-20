@@ -1,0 +1,20 @@
+**/*.rar
+**/*.pdf
+**/*.txt
+**/*.wma
+**/*.zip
+**/*.rar
+**/*.js
+**/*.XML
+**/*.pp
+**/*.xml
+**/*.iml
+AP-HW*/
+Exam/
+Lab\ AP/
+Learning/
+Project/
+Quera\ Project/
+**/WebAPIDemo
+**/out
+**/.idea
